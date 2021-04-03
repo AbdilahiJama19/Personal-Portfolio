@@ -11,7 +11,7 @@
 
 .Navbar {
   float: right;
-  margin-right: 400px;
+  margin-right: 500px;
 }
 
 .Navbar ul {
@@ -22,4 +22,11 @@
   display: inline-block;
   margin-left: 20px;
   font-size: 20px;
+}
+
+.body {
+  text-align: center;
+  margin-top: 150px;
+  font-size: 50px;
+  font-family: 'Dancing Script';
 }
