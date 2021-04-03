@@ -10,7 +10,8 @@
 }
 
 .Navbar {
-  float: left;
+  float: right;
+  margin-right: 400px;
 }
 
 .Navbar ul {
@@ -19,4 +20,6 @@
 
 .Navbar li {
   display: inline-block;
+  margin-left: 20px;
+  font-size: 20px;
 }
