@@ -1,9 +1,22 @@
 .header{
 
 }
+
 .logo {
  width: 100px;
- height: 100px;
+ height: 30px;
  font-family: 'Train One', cursive;
  font-size: 15px;
+}
+
+.Navbar {
+  float: left;
+}
+
+.Navbar ul {
+  list-style-type: none;
+}
+
+.Navbar li {
+  display: inline-block;
 }
