@@ -1,5 +1,5 @@
 .header{
-  
+
 }
 
 .logo {
@@ -25,9 +25,16 @@
   padding: 20px;
 }
 
-.body {
-  text-align: center;
+.body{
   margin-top: 150px;
+}
+.message {
+  text-align: center;
   font-size: 50px;
   font-family: 'Dancing Script';
+}
+
+.about {
+  text-align: center;
+  margin-top: 200px;
 }
