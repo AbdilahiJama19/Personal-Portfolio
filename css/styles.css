@@ -25,13 +25,14 @@
   padding: 10px;
 }
 .mid-section {
-  background-image: url("../Images/background.jpg");
+
   background-repeat: no-repeat;
 }
 .message h1 {
   margin-top: 100px;
 }
 .message {
+  background-image: url("../Images/background.jpg");
   text-align: center;
   font-size: 50px;
   font-family: 'Dancing Script';
@@ -55,7 +56,13 @@
   display: block;
   float:left;
   width:40%;
-  margin: 6vw 0 10vw 10%;
+  margin: 5vw 0 12vw 10%;
+}
+.column2 {
+  float: right;
+  width :35%;
+  margin: 9.9vw auto 12vw 10%;
+  margin-right: 50px;
 }
 .row::after {
   content: "";
@@ -64,5 +71,5 @@
 }
 .h4me{
   font-family: "Permanent Marker";
-  font-size: 25px;
+  font-size: 20px;
 }
