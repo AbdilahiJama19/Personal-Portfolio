@@ -44,22 +44,25 @@ body {
 .abh2 {
   text-align: center;
   font-size: 50px;
-  font-family: "Train One";
+  font-family: 'Permanent Marker', cursive;
 }
 .abp{
   display: block;
   text-align: left;
-  font-family: fantasy;
 }
 
 .column1 {
   display: block;
   float:left;
   width:40%;
-  margin: 6vw 0 12vw 15%;
+  margin: 6vw 0 10vw 10%;
 }
 .row::after {
   content: "";
   display: table;
   clear: both;
+}
+.h4me{
+  font-family: "Permanent Marker";
+  font-size: 25px;
 }
