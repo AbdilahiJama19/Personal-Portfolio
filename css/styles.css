@@ -1,6 +1,9 @@
 #header {
 
 }
+body{
+    background-image: url("../Images/back.jpg");
+}
 .logo {
  font-family:'Train One', cursive;
  font-size:15px;
@@ -32,7 +35,7 @@
   margin-top: 100px;
 }
 .message {
-  background-image: url("../Images/background.jpg");
+  background-image: url("../Images/back.jpg");
   text-align: center;
   font-size: 50px;
   font-family: 'Dancing Script';
