@@ -1,10 +1,6 @@
 #header {
 
 }
-body {
-  background-image: url("../Images/background.jpg");
-  background-repeat: no-repeat;
-}
 .logo {
  font-family:'Train One', cursive;
  font-size:15px;
@@ -27,6 +23,10 @@ body {
   display: inline-block;
   font-size: 20px;
   padding: 10px;
+}
+.mid-section {
+  background-image: url("../Images/background.jpg");
+  background-repeat: no-repeat;
 }
 .message h1 {
   margin-top: 100px;
