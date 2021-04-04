@@ -2,9 +2,7 @@
 
 }
 body {
-  background-image: url("../Images/back.jpg");
-  height: 49%;
-  width: 99%;
+  background-image: url("../Images/background.jpg");
   background-repeat: no-repeat;
 }
 .logo {
