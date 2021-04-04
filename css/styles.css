@@ -16,6 +16,7 @@ body {
   float: right;
   margin-right:200px;
   margin-top: -60px;
+  font-family: fantasy;
 }
 
 .Navbar ul {
@@ -37,19 +38,25 @@ body {
 }
 
 .about {
-  text-align: center;
   margin-top: 300px;
   display: block;
 }
 .abh2 {
   text-align: center;
   font-size: 50px;
+  font-family: "Train One";
+}
+.abp{
+  display: block;
+  text-align: left;
   font-family: fantasy;
 }
-.column {
-  float: left;
-  width: 50%;
-  .border-right: 1px solid black;
+
+.column1 {
+  display: block;
+  float:left;
+  width:40%;
+  margin: 6vw 0 12vw 15%;
 }
 .row::after {
   content: "";
