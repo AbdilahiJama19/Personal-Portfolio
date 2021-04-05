@@ -1,6 +1,6 @@
-# {My Portfolio}
-### {This my Portfolio Landing Page as based on the Independent Project},{4/4/2021}
-#### By **{Abdilahi Jama}**
+# My Portfolio
+### This my Portfolio Landing Page as based on the Independent Project,4/4/2021
+#### By Abdilahi Jama
 ## Description
    {This is an Independent Project where we are supposed to make an create our own
    Portfolio Landing page. It contains details about us and our personal lives which
