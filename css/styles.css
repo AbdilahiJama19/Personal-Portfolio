@@ -1,5 +1,5 @@
 /* This is the css file where styling takes place*/
-/* This is the where the header gets it styling*/
+/* This is the where the body gets it styling*/
 body{
     background-color: #DCDCDC;
     text-decoration: none;
@@ -7,6 +7,7 @@ body{
 a {
   text-decoration: none;
 }
+/* This is the where the logo gets it styling*/
 .logo {
  font-family:'Train One', cursive;
  font-size:15px;
