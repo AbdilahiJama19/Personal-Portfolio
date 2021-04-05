@@ -16,7 +16,7 @@ a {
  background-color: black;
  color: white;
 }
-
+/* This is the where the Navbar gets it styling*/
 .Navbar {
   float: right;
   margin-right:100px;
@@ -39,9 +39,7 @@ a {
   background-color: lightgrey;
   text-decoration: none;
 }
-.mid-section {
-
-}
+/* This is the where the middle section of body gets it styling*/
 .message h1 {
   margin-top: 100px;
 }
@@ -101,6 +99,7 @@ a {
 .ppr {
   text-align: center;
 }
+/* This is the where the footer gets it styling*/
 #foot {
   text-align: center;
   padding: 15px;
