@@ -54,7 +54,7 @@ a {
 }
 .abh2 {
   text-align: center;
-  font-size: 50px;
+  font-size: 60px;
   font-family: 'Dancing Script', cursive;
 }
 .abp{
@@ -85,6 +85,10 @@ a {
 }
 .h3pr{
   font-size: 35px;
-  font-family: fantasy;
+  font-family: "Permanent Marker";
   text-align: center;
+}
+.ppr {
+  text-align: center;
+
 }
