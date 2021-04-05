@@ -36,7 +36,7 @@ a {
   text-decoration: none;
 }
 .Navbar li a:hover {
-  background-color: grey;
+  background-color: lightgrey;
   text-decoration: none;
 }
 .mid-section {
@@ -86,6 +86,9 @@ a {
   font-family: "Permanent Marker";
   font-size: 20px;
 }
+.projects{
+  padding: 10px;
+}
 .h3pr{
   font-size: 35px;
   font-family: "Permanent Marker";
@@ -96,7 +99,7 @@ a {
 }
 #foot {
   text-align: center;
-  padding: 5px;
+  padding: 15px;
   background-color: black;
   color: white;
 }
