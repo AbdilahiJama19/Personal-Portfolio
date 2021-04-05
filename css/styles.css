@@ -5,6 +5,9 @@ body{
     background-image: url("../Images/backround.jpg");
     text-decoration: none;
 }
+a {
+  text-decoration: none;
+}
 .logo {
  font-family:'Train One', cursive;
  font-size:15px;
@@ -52,7 +55,7 @@ body{
 .abh2 {
   text-align: center;
   font-size: 50px;
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'Dancing Script', cursive;
 }
 .abp{
   display: block;
@@ -79,4 +82,9 @@ body{
 .h4me{
   font-family: "Permanent Marker";
   font-size: 20px;
+}
+.h3pr{
+  font-size: 35px;
+  font-family: fantasy;
+  text-align: center;
 }
